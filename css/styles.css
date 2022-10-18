@@ -1,0 +1,19 @@
+html {
+  background-color: #FEF9F5;
+}
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.2em;
+  margin: 50px 8%;
+  padding: 10px;
+  border: 2px dashed #2e2e2e;
+}
+
+.red {
+  font-style: italic;
+  color: brown;
+}
+
+.best {
+  font-weight: 600;
+}
